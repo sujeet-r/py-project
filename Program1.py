@@ -1,5 +1,6 @@
 """
 Given an array of integers nums and an integer target, return indices of the two numberssuch that theyadd up to target.
+
 """
 nums= [2,7,11,15]
 target = 9
